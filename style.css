@@ -4,12 +4,24 @@ body{
 .home{
     color: white;
     text-align: center;
+    margin-top: 100px;
+}
+header{
+    background-color: rgb(98, 94, 89);
+     position: absolute;
+      width: 100%; 
+     top: 0px;
+      left: 0px;
 }
 h1{
-
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
 }
 img{
-    margin: 25px 23px 20px 23px;
+    margin: 25px 23px 22px 23px;
     width: 270px;
     height: 200px;
 }
@@ -19,24 +31,6 @@ img:hover{
 }
 .textImage{
     font-size: 24px;
-    position: absolute; 
+    display: inline-flex;
 }
-#name1{
-    left: 17%;
-    bottom: 35%;
-}
-#name2{
-    left: 46%;
-    bottom: 35%;
-}
-#name3{
-    left: 74%;
-    bottom: 35%;
-}
-#name4{
-    left: 31%;
-    bottom: -14%;
-}#name5{
-    left: 59%;
-    bottom: -14%;
-}
+/*  */
