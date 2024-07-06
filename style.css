@@ -4,7 +4,7 @@ body{
 .home{
     color: white;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 header{
     background-color: rgb(98, 94, 89);
@@ -32,5 +32,6 @@ img:hover{
 .textImage{
     font-size: 24px;
     display: inline-flex;
+    margin-top: 20px;
 }
 /*  */
